@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heart-on-turbo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Heart on Turbo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-on-turbo/) |
+| **Get License** | [Official Music Licensing for Heart on Turbo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-on-turbo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ho kaali raat ch lishkda husn tera, mind blowing
+> Tere naina da jadoo mera dil mangda, energy flowing
+> Main takda aan tainu kalli nu, feeling the space
+> Ni tere husan ne thag leya, unforgettable face
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `272b954a193b209201acc12d3cf31351f8856e56e00485019b260f81cd71a11c` |
 | **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
